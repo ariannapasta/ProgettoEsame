@@ -1,0 +1,11 @@
+#r{
+    position: absolute;
+    top: 50px;
+    bottom: 0;
+    width: 100%;
+}
+.c{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color:#FEFEFE;
+}
